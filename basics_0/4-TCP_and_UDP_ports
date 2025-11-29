@@ -1,1 +1,2 @@
-netstat -lpa 
+#!/usr/bin/env bash
+netstat -lpa
