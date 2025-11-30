@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# jdlfksakdf
+echo "
+# Static table lookup for hostnames.
+# See hosts(5) for details.
+127.0.0.2	localhost
+8.8.8.8		facebook.com
+">> /etc/hosts
